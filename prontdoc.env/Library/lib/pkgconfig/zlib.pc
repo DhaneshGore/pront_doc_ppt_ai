@@ -1,0 +1,13 @@
+prefix=D:/totem/Pront_doc_ppt/prontdoc.env/Library
+exec_prefix=D:/totem/Pront_doc_ppt/prontdoc.env/Library
+libdir=D:/totem/Pront_doc_ppt/prontdoc.env/Library/lib
+sharedlibdir=D:/totem/Pront_doc_ppt/prontdoc.env/Library/lib
+includedir=D:/totem/Pront_doc_ppt/prontdoc.env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
