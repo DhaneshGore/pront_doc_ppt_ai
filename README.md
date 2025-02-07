@@ -1,4 +1,8 @@
 This Streamlit app converts a Word (.docx) file into a PowerPoint (.pptx) presentation using AI.
+It extracts text, summarizes content using **GPT-4**, generates relevant images using **DALL·E**, and even **transcribes audio** if present.
+
+🚀 **Live App:** [prontdocpptai-dhanesh.streamlit.app](https://prontdocpptai-dhanesh.streamlit.app/)  
+
 
 ##  Features
 ✅ Extracts text from a `.docx` file  
