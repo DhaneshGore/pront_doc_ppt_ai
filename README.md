@@ -3,6 +3,7 @@ It extracts text, summarizes content using **GPT-4**, generates relevant images 
 
 🚀 **Live App:** [prontdocpptai-dhanesh.streamlit.app](https://prontdocpptai-dhanesh.streamlit.app/)  
 
+https://github.com/DhaneshGore/pront_doc_ppt_ai/blob/58ff895cf50898587f3d5c05b02a1715c1173d39/Screenshot%202025-09-14%20010812.png
 
 ##  Features
 ✅ Extracts text from a `.docx` file  
